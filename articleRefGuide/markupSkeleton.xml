@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+    <head>
+        <siteInfo ref="1">
+            <hyperlink>2</hyperlink>
+            <section>3</section>
+            <titleLine>4</titleLine>
+            <pubInfo>
+                <date>5</date>
+                <time>6</time>
+                <credit>7</credit>
+            </pubInfo>
+        </siteInfo>
+    </head>
+    
+    <body>
+        <p>
+            8
+        </p>
+    </body>
+    
+    <foot>
+        <tag>9</tag>
+    </foot>
+</article>
+
+<!--JMH: This should be a model for how we should mark up the articles. Check the
+    folder for immages files that will help you find the specific information
+    required from the different site displays. Feel free to let me know if there
+    are changes we should make to this code. Use the numbers as referance, entries
+    will also be case sensitive, leave elements empty if their is no data to place
+    inside them.
+    
+    1. This @ref should be a three letter referance to define which outlet the
+    article is from: CNN, NPR, FOX, BBC.
+    
+    2. Copy paste this directly into this as text, we can do a trasformation later.
+    
+    3. This will differ per site, it is usually a clickable link to other related
+    articles under that "type" listed.
+    
+    4. Self explanitory, we should discuss how we wish to mark the language in the title.
+    
+    5. Self explanitory, on every page, format this as YYYY,MM,DD
+    
+    6. Note: This will not appear on every site. If it can be found as if you are a
+    regular reader, then include it, we do not need to dig for it.
+    
+    7. This is the author and editor credits, we can nest these in thier own elements.
+    Note that the <author> and/or <editor> names might be located at the bottom of
+    the page.
+    
+    8. Here is where we will put the big blob of text. There are some important things to
+    note here: 
+    - The text has noticable paragraph breaks, nest each break with a <p> tag.
+    - Quotations should be put in <quote> elements to remove the sudo-markup. 
+    - Any text that acts as a link should be wrapped in an <a> element, include an
+    @href="" attribute and put the link adress inside the quotation marks.
+    - Where there is bolded/italics/underlined/strikethrough text nest it in a <em> tag.
+    - Indicate where images or videos sit inside the text with a self closing <media/>
+    tag, should we decide to do something with them later on, we will know to fill them
+    in with more data. EXCLUDE photos/videos not inline with the text. INCLUDE any
+    titles/comments below the photo/video in its own <p> tiny tag, we can do a transform
+    on those later.
+    - Be sure to read over the article and mark the word types we are looking for. These
+    would be adverbs <adv>, verbs <ver>, and adjectives <jec>. They are named this way to
+    avoid portental mistakes.
+    
+    9. Note: These will not appear on every site. If they can be found as if you are a
+    regular reader (usually at the bottom), then include it, we do not need to dig
+    for these.
+-->
