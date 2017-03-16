@@ -1,0 +1,29 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+#AJN - This RelaxNG was based off of the two XML doc the jon put in the repo. You can change it if you feel like it is necessary but then upload it back in the repo
+start = article
+article = element article {head, body, foot?}
+head = element head {siteInfo}
+siteInfo = element siteInfo {ref, hyperlink, section, titleLine, pubInfo}
+ref = attribute ref {"CNN" | "FOX" | "NPR" |"BBC"} #AJN - The four ref attributes that we are going to use
+hyperlink = element hyperlink {text} #AJN - Put the hyperlink of the article here 
+section = element section {"politics"} #AJN - I put politics in the section because I didnt know what other sections we were doing. Feel free to put ( | "otherSections" ) if I didnt include the one you did
+titleLine = element titleLine {text} #AJN - This is where the title of the article goes 
+pubInfo = element pubInfo {date | time? | credit} #AJN - date is most likely on every article we gather. Time is an iffy one and we need a credit(author or editor)
+date = element date {xsd:date} #AJN - The date must follow the specific format of YYYY-MM-DD
+time = element time {xsd:time} #AJN - The time must follow the specific format of hh:mm:ss
+credit = element credit {author | editor} #AJN - We either want the author of the article or the editor of the article
+author = element author {text} #AJN - The authors name
+editor = element editor {text} #AJN - The editors name
+body = element body {mixed{(media | p)*}} #AJN - Tag each paragraph and pics/videos. The * is because there might be more than 1 p/media
+media = element media {empty} #AJN - We want the tag of media to look like this <media/> which is a self closing element
+p = element p {mixed{(em | quote | a | emo | q)*}} #AJN - The p element will contain text, emphasis, quotes, hyperlinks, adverbs, verbs, and or adjectives
+em = element em {text} #AJN - tag this when the text is bolded/italics/underlined/strikethrough
+quote = element quote {text} #AJN - tag this when the someone is speaking
+q = element q {text} #AJN - tag this when there is a use of quotes but no one is speaking 
+a = element a {href, text} #AJN - The a element will hold the hyperlink and the text that the hyperlink is connected to
+href = attribute href {text} #AJN - the hyperlink
+emo = element emo {type, text} #AJN - the tag for emotional words
+type = attribute type {"verb" | "adv" | "adj" | "noun"} #AJN - what we could have in the type. Add more if i forgot any
+foot = element foot {tag?} #AJN - the foot tag only if the article has one. Dont stress over this
+tag = element tag {text} #AJN - the tag
