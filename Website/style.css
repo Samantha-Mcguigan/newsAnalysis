@@ -1,0 +1,56 @@
+html{
+    background-color: #FFFAFA ;
+}
+
+body{
+    color: #000000;
+}
+
+h1{
+    color: #FFFAFA ;
+    font-family: Impact;
+    font-size: 50px !important;
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+
+
+div#top {
+    background-color: #1A3A51;
+    width: 100%;
+    border: 3px solid #B90411;
+    padding: 2px;
+    
+}
+
+div#menu{
+    text-align: left;
+    font-size: 20px !important;
+    color: #B90411;
+}
+
+div#img{
+    width: 25%;
+    height: 25%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+img{
+    display: block;
+    width: 40%;
+    height: 40%; 
+    margin: auto;
+}
+
+a:link{
+    text-decoration: none;
+    color: #FFFAFA ;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #FFFAFA;
+}
