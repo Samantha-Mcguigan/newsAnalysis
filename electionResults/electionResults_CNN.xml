@@ -4,7 +4,7 @@
         <siteInfo ref="CNN">
             <hyperlink>http://www.cnn.com/2016/11/08/politics/election-day-2016-highlights/</hyperlink>
             <section>politics</section>
-            <titleLine>The ultimate triumph: President Trump</titleLine>
+            <titleLine>The <emo type="adj">ultimate</emo> <emo type="noun">triumph</emo>: President Trump</titleLine>
             <pubInfo>
                 <credit>By Stephen Collinson, CNN</credit>
                 <time>Updated 12:50 PM ET,</time>
@@ -15,6 +15,7 @@
     <body>
     
 donald trump speaks election headquarters announcement sot_00000000<media/>
+Donald Trump: Hillary Clinton called to congratulate us 00:48<media/>
 
         <p>Washington (CNN)Donald Trump will become the 45th president of the United States, CNN projects, a <emo type="adj">historic</emo> victory for outsiders that represents a <emo type="adj">stunning</emo> repudiation of Washington's political establishment.</p>
 
