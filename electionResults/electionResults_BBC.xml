@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
         <siteInfo ref="BBC">

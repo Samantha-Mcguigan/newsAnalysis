@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
-        <siteInfo ref="BBC">
+        <siteInfo ref="#BBC">
             <hyperlink>http://www.bbc.com/news/world-us-canada-38777437</hyperlink>
             <section>US &amp; Canada</section>
             <titleLine>Trump suspends US refugee programme and bans Syrians indefinitely</titleLine>
