@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
         <siteInfo ref="CNN">
@@ -6,16 +8,16 @@
             <section>Politics</section>
             <titleLine>Trump signs executive order to keep out <q>radical Islamic terrorists</q></titleLine>
             <pubInfo>
-                <credit>By Dan Merica, CNN</credit>
+                <credit>By <author>Dan Merica</author>, CNN</credit>
                 <time>Updated 2:02 PM ET,</time>
                 <date>Mon January 30, 2017</date>
             </pubInfo>
         </siteInfo>
     </head>
+<body>
+    <media>Trump: We don't want them here 02:50</media>
 
-Trump: We don't want them here 02:50<media/>
-    <body>
-    <subHead>Story highlights</subHead>
+        <subHead>Story highlights</subHead>
         
 <p>Democrats blasted Trump's move</p>
 
@@ -28,7 +30,7 @@ The text of the order -- in a break from drafts that had been circulating earlie
 
         <p>The order bars all persons from certain <q>terror-prone</q> countries from entering the United States for 90 days and suspends the US Refugee Admissions Program for 120 days until it is reinstated <q>only for nationals of countries for whom</q> members of Trump's Cabinet deem can be properly vetted.</p>
 
-Understand Trump's refugee restrictions 01:18<media/>
+        <media>Understand Trump's refugee restrictions 01:18</media>
 
 <p>The countries impacted are Iran, Iraq, Syria, Sudan, Libya, Yemen and Somalia, according to a White House official.</p>
 
@@ -40,31 +42,30 @@ Understand Trump's refugee restrictions 01:18<media/>
 
         <p>He added, <quote>We want to ensure that we are not admitting into our country the very threats our soldiers are fighting overseas. We only want to admit those into our country who will support our country and love deeply our people.</quote></p>
 
-How Donald Trump changed the presidency in 7 days<media/>
-        <a href="http://www.cnn.com/2017/01/27/politics/donald-trump-first-week/index.html">How Donald Trump changed the presidency in 7 days</a>
+       <media>How Donald Trump changed the presidency in 7 days</media>
+        <p><a href="http://www.cnn.com/2017/01/27/politics/donald-trump-first-week/index.html">How Donald Trump changed the presidency in 7 days</a></p>
         
         <p>Trump's order will also cancel the Visa Interview Waiver Program, which once allowed repeat travelers to the United States to be able to forgo an in-person interview to renew their visa. Under the new order, these travelers will now have to have in-person interviews.</p>
 
-<p>At the Pentagon, Trump met privately for about an hour with Mattis, Vice President Mike Pence, Security Adviser Mike Flynn and military officials and they discussed accelerating the defeat of ISIS, confronting global threats like North Korea, military readiness and the National Guard, a Defense official told CNN. The meeting took place in "
-    <q>the tank,</q> secure room where the Joint Chiefs meet.</p>
+<p>At the Pentagon, Trump met privately for about an hour with Mattis, Vice President Mike Pence, Security Adviser Mike Flynn and military officials and they discussed accelerating the defeat of ISIS, confronting global threats like North Korea, military readiness and the National Guard, a Defense official told CNN. The meeting took place in <q>the tank,</q> a secure room where the Joint Chiefs meet.</p>
 
 <p>Trump also signed a second executive action on Friday that would spur military spending and, as Trump said, <quote>begin the great rebuilding of the Armed Services of the United States.</quote></p>
 
         <p>The President added that the executive action instructs Mattis to begin <quote>developing a plan for new planes, new ships, new resources and new tools for our men and women in uniform.</quote></p>
 
         <subHead>The ban and its impact</subHead>
-        <a href="http://www.cnn.com/2017/01/29/politics/immigration-crisis-what-we-know/index.html">What we know so far</a>
-        <a href="http://www.cnn.com/2017/01/29/politics/trump-travel-ban-countries/index.html">What it's like in the 7 impacted countries</a>
-        <a href="http://www.cnn.com/2017/01/29/politics/how-the-trump-administration-chose-the-7-countries/index.html">How the countries were chosen</a>
-        <a href="http://www.cnn.com/2017/01/28/politics/text-of-trump-executive-order-nation-ban-refugees/index.html">What the ban says: The full text</a>
-        <a href="http://www.cnn.com/2017/01/28/politics/trump-immigration-refugees-visa-policy/index.html">What to know about the restrictions</a>
-        <a href="http://www.cnn.com/2017/01/29/politics/trump-travel-ban-legal/index.html">Is the ban legal?</a>
-        <a href="http://www.cnn.com/interactive/2017/01/politics/immigration-ban-stories/">These are the people directly impacted</a>
-        <a href="http://www.cnn.com/2017/01/27/politics/trump-christian-refugees/index.html">The ban's Christian focus</a>
-        <a href="http://www.cnn.com/2017/01/28/politics/trump-visa-ban-families-refugees-stories/index.html">A family's plight just got more complicated</a>
-        <a href="http://www.cnn.com/2017/01/28/opinions/trumps-big-mistake-on-syrian-refugees-bergen/index.html">Bergen: Trump's big mistake</a>
-        <a href="http://www.cnn.com/2017/01/28/politics/trump-executive-actions-orders/index.html">All of Trump's executive orders, memos and proclamations</a>
-        <a href="http://www.cnn.com/2017/01/26/politics/executive-orders-presidents-actions-presidential-memoranda/index.html">Comparing Trump to previous presidents</a>
+        <p><a href="http://www.cnn.com/2017/01/29/politics/immigration-crisis-what-we-know/index.html">What we know so far</a></p>
+        <p><a href="http://www.cnn.com/2017/01/29/politics/trump-travel-ban-countries/index.html">What it's like in the 7 impacted countries</a></p>
+        <p><a href="http://www.cnn.com/2017/01/29/politics/how-the-trump-administration-chose-the-7-countries/index.html">How the countries were chosen</a></p>
+        <p><a href="http://www.cnn.com/2017/01/28/politics/text-of-trump-executive-order-nation-ban-refugees/index.html">What the ban says: The full text</a></p>
+        <p><a href="http://www.cnn.com/2017/01/28/politics/trump-immigration-refugees-visa-policy/index.html">What to know about the restrictions</a></p>
+        <p><a href="http://www.cnn.com/2017/01/29/politics/trump-travel-ban-legal/index.html">Is the ban legal?</a></p>
+        <p><a href="http://www.cnn.com/interactive/2017/01/politics/immigration-ban-stories/">These are the people directly impacted</a></p>
+        <p><a href="http://www.cnn.com/2017/01/27/politics/trump-christian-refugees/index.html">The ban's Christian focus</a></p>
+        <p><a href="http://www.cnn.com/2017/01/28/politics/trump-visa-ban-families-refugees-stories/index.html">A family's plight just got more complicated</a></p>
+        <p><a href="http://www.cnn.com/2017/01/28/opinions/trumps-big-mistake-on-syrian-refugees-bergen/index.html">Bergen: Trump's big mistake</a></p>
+        <p><a href="http://www.cnn.com/2017/01/28/politics/trump-executive-actions-orders/index.html">All of Trump's executive orders, memos and proclamations</a></p>
+        <p><a href="http://www.cnn.com/2017/01/26/politics/executive-orders-presidents-actions-presidential-memoranda/index.html">Comparing Trump to previous presidents</a></p>
         
         <p>Trump's order on refugees has been something the White House has been considering for days and the President was seen with the document on his Air Force One desk Thursday when he flew to Philadelphia.</p>
 
@@ -74,7 +75,7 @@ How Donald Trump changed the presidency in 7 days<media/>
 
 <subHead>Prioritizing Christians over Muslims</subHead>
 
-Khizr Khan on Trump's refugee ban 03:23<media/>
+<media>Khizr Khan on Trump's refugee ban 03:23</media>
         
 <p>By signing the measures, Trump is making good on his promise to block Syrian and certain other refugees from entering the United States and his murkier pledge of banning Muslim immigration into the United States, a vow that his aides have walked back as being directed at countries seen as terror hotbeds.</p>
 
@@ -82,8 +83,8 @@ Khizr Khan on Trump's refugee ban 03:23<media/>
 
 <p>This would make it easier for Christians and other religious minorities in majority Muslim countries from entering the United States than it would for Muslims in general.</p>
 
-Trump says US will prioritize Christian refugees<media/>
-        <a href="http://www.cnn.com/2017/01/27/politics/trump-christian-refugees/index.html">Trump says US will prioritize Christian refugees</a>
+        <media>Trump says US will prioritize Christian refugees</media>
+        <p><a href="http://www.cnn.com/2017/01/27/politics/trump-christian-refugees/index.html">Trump says US will prioritize Christian refugees</a></p>
 
 <p>Trump did not back away from the idea that he is prioritizing Christians over Muslims in an interview with the Christian Broadcast Network taped before he signed the measures on Friday.</p>
 
@@ -99,24 +100,24 @@ Trump says US will prioritize Christian refugees<media/>
 
         <p><quote>Tears are running down the cheeks of the Statue of Liberty tonight as a grand tradition of America, welcoming immigrants, that has existed since America was founded has been stomped upon,</quote> Senate Minority Leader Chuck Schumer said in a statement. <quote>Taking in immigrants and refugees is not only humanitarian but has also boosted our economy and created jobs decade after decade. This is one of the most backward and nasty executive orders that the president has issued.</quote></p>
 
-McCaul: Trump to freeze Syrian refugee program 02:19<media/>
+<media>McCaul: Trump to freeze Syrian refugee program 02:19</media>
 
 <p>The American Civil Liberties Union also called Trump's action <quote>just a euphemism for discrimination against Muslims.</quote></p>
 
- <subHead>Executive orders: Read more</subHead>
-        <a href="http://www.cnn.com/2017/01/28/politics/trump-executive-actions-orders/index.html">All of Trump's executive orders, memos and proclamations</a>
-        <a href="http://www.cnn.com/2017/01/26/politics/will-trump-executive-actions-stick/index.html">Will the orders and actions stick?</a>
-        <a href="http://www.cnn.com/2017/01/26/politics/executive-orders-presidents-actions-presidential-memoranda/index.html">How Trump's actions stack up against previous presidents</a>
-        <a href="http://www.cnn.com/2017/01/23/politics/donald-trump-executive-orders-executive-actions/">What Trump can and cannot do</a>
-        <a href="http://www.cnn.com/2017/01/23/politics/donald-trump-executive-orders-executive-actions/">What's the difference between and order and action?</a>
+        <subHead>Executive orders: Read more</subHead>
+        <p><a href="http://www.cnn.com/2017/01/28/politics/trump-executive-actions-orders/index.html">All of Trump's executive orders, memos and proclamations</a></p>
+        <p><a href="http://www.cnn.com/2017/01/26/politics/will-trump-executive-actions-stick/index.html">Will the orders and actions stick?</a></p>
+        <p><a href="http://www.cnn.com/2017/01/26/politics/executive-orders-presidents-actions-presidential-memoranda/index.html">How Trump's actions stack up against previous presidents</a></p>
+        <p><a href="http://www.cnn.com/2017/01/23/politics/donald-trump-executive-orders-executive-actions/">What Trump can and cannot do</a></p>
+        <p><a href="http://www.cnn.com/2017/01/23/politics/donald-trump-executive-orders-executive-actions/">What's the difference between and order and action?</a></p>
         
 <p><quote>Identifying specific countries with Muslim majorities and carving out exceptions for minority religions flies in the face of the constitutional principle that bans the government from either favoring or discriminating against particular religions,</quote> American Civil Liberties Union Executive Director Anthony Romero said in a statement.</p>
 
 <p>And the Council on American-Islamic Relations vowed it would file a lawsuit over the order.</p>
 
 <p><quote>There is no evidence that refugees -- the most thoroughly vetted of all people entering our nation -- are a threat to national security,</quote> CAIR National Litigation Director Lena F. Masri said in a statement. <quote>This is an order that is based on bigotry, not reality.</quote></p>
-
+</body>
 <foot>CORRECTION: An earlier version of this story incorrectly stated the number of days persons from the banned countries would be barred from entering the US.
     <tag>CNN's Ryan Browne and Jeremy Diamond contributed to this report.</tag></foot>
-    </body>
+    
 </article>

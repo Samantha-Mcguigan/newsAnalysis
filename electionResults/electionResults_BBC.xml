@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
         <siteInfo ref="BBC">
@@ -6,13 +7,15 @@
         <titleLine>US election 2016 result: Trump beats Clinton to take White House</titleLine>
         <section>US Election 2016</section>
             <pubInfo>
+                <credit>
+                    <author>Anthony Zurcher</author>
+                </credit>
                 <date>9 November 2016</date>
             </pubInfo>
         </siteInfo>
     </head>
-    
-Media caption'I will be president for all Americans'<media/>
-<body>
+    <body>
+    <media>Media caption'I will be president for all Americans'</media>
     <p>Donald Trump will become the 45th US president after a <emo type="adj">stunning</emo> victory over Democrat Hillary Clinton.</p>
 
 <p>The Republican said he would serve all Americans and called for the country to unite, following a divisive campaign which saw him beset by controversies.</p>
@@ -42,9 +45,9 @@ Media caption'I will be president for all Americans'<media/>
     <p>Russian President Vladimir Putin - for whom Mr Trump has voiced support but who Democrats accused of election meddling - said he hoped ties could improve from their current <quote>critical condition</quote></p>
 
     <p>The European Union said close co-operation with the US was the only way to deal with <quote>unprecedented challenges</quote> around the world</p>
-        <a href="http://www.bbc.com/news/uk-politics-37921086">British Prime Minister Theresa May said the UK and the US had an <quote>enduring and special relationship</quote></a> and would remain close partners on trade, security and defence
+    <p><a href="http://www.bbc.com/news/uk-politics-37921086">British Prime Minister Theresa May said the UK and the US had an <quote>enduring and special relationship</quote></a> and would remain close partners on trade, security and defence</p>
     
-        <subHead>'United people'</subHead>
+    <subHead>'United people'</subHead>
         <p>While US media report that Mrs Clinton is slightly ahead in the popular vote, in the US electoral college system which determines the presidency, <a href="http://www.bbc.com/news/election-us-2016-37249697">what matters is winning individual states.</a></p>
     
     <p>As poll counting went late into the night, it was Mr Trump's <emo type="adj">shock</emo> victory in Wisconsin that put him over the 270 out of 538 electoral college votes needed to win the White House.</p>
@@ -76,7 +79,7 @@ Media caption'I will be president for all Americans'<media/>
 
 <p>At 70, the billionaire will be the oldest first-term president in US history.</p>
 
-<subHead>How Trump won in maps</subHead>
+    <subHead>How Trump won in maps</subHead>
     <p>Mrs Clinton, who <emo type="verb">dreamed</emo> of becoming the first female US president, did not appear at what was meant to be her victory rally in Manhattan.</p>
 
 <p>Mr Trump provoked controversy on the campaign trail for comments about women, Muslims and a plan to build a wall along the US-Mexican border.</p>

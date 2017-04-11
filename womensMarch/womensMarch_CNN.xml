@@ -16,8 +16,7 @@
     </head>
 
     <body>
-        <media/>
-        <p>Women's Marches around the world 01:03</p>
+        <media>Women's Marches around the world 01:03</media>
         <p><em>(CNN)-</em>More than one million people marched through Washington, D.C., and other
             American cities Saturday to show support for women's rights and express their discontent
             over the election of President Donald Trump.</p>
@@ -56,9 +55,9 @@
                 believe it or not, of V-J Day, Victory Over Japan Day, 1945. Because when victory
                 came people started coming out of apartments and homes ... a lot of extra people in
                 these towns just started coming out.</quote></p>
-        <p>
-            <em>Marches across America</em>
-        </p>
+
+            <subHead>Marches across America</subHead>
+
         <p>March organizers said protests took place in more than 600 cities across the world.</p>
         <p>Attendance was not always easy to determine. For instance, Washington march organizers
             said about 500,000 people took part, but authorities did not confirm that number or
@@ -72,14 +71,12 @@
                 clear: We are here! We will not be silent! We will not play dead! We will fight for
                 what we believe in!</quote></p>
         <p>
-            <a href="http://www.cnn.com/2017/01/20/politics/pussyhat-project-washington-march-trnd/"
-                >Pussyhat Project tops off Women's March on Washington</a>
+            <a href="http://www.cnn.com/2017/01/20/politics/pussyhat-project-washington-march-trnd/">Pussyhat Project tops off Women's March on Washington</a>
         </p>
         <p>In Los Angeles, more than 100,000 people marched, police said. So many people crammed
             into the streets that <quote>our march turned into a stand,</quote> said Ellen Crafts, who handled
             public relations for the event.</p>
-        <media/>
-        <p><em>Photos:</em> Women's March on Washington</p>
+        <media>Photos:Women's March on Washington</media>
         <p>Demonstrators in New York City marched toward Trump Tower -- the President's main
             residence when he's not in the White House -- but were blocked at Fifth Avenue.</p>
         <p>Police said 20,000 people protested in Houston, 60,000 in Oakland. In Atlanta, 60,000
@@ -109,7 +106,7 @@
                 >A rallying cry for women</a>
         </p>
         <p>
-            <em>Bigger than inaugural?</em>
+            <subHead>Bigger than inaugural?</subHead>
         </p>
         <p>The march organizers believe more people came out Saturday for the protests than for
             Trump's inaugural events on Friday.</p>
@@ -124,9 +121,7 @@
         <p>More than 470,000 people had taken the Metro, the Washington subway system, by 1 p.m., a
             weekend ridership record. The metro tweeted Saturday there were 275,000 trips taken
             Saturday by 11 a.m.</p>
-        <media/>
         <p>By comparison, on Friday, there were 193,000 trips by 11 a.m., according to Metro.</p>
-        <media/>
         <p>Not everyone agrees. Trump, <a
                 href="http://www.cnn.com/2017/01/21/politics/trump-presidency-day-two/index.html">in
                 his first speech after the Inauguration</a>, said the media under-counted the size
@@ -150,7 +145,7 @@
         <p>The numbers are lower than what the system saw in 2009 and 2013 during Obama's
             inaugurations: 1.1 million trips in 2009 and 782,000 in 2013.</p>
         <p>
-            <em>'Strength in numbers'</em>
+            <subHead>'Strength in numbers'</subHead>
         </p>
         <p>The protesters, which included many men, hit the streets for different reasons, among
             them health care, the future of the Affordable Care Act, the environment and income

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
         <siteInfo ref="NPR">
@@ -8,13 +9,13 @@
             <pubInfo>
                 <date>January 27, 2017</date>
                 <time>1:32 PM ET</time>
-                <credit>GREG MYRE</credit>
+                <credit><author>GREG MYRE</author></credit>
             </pubInfo>
         </siteInfo>
     </head>
 <body>
-Protesters hold signs near the White House during a protest about President Trump's immigration policies on Wednesday. A proposed presidential action would freeze immigration from seven mostly Muslim countries for security reasons. But the list does not include any of the countries whose nationals have killed Americans in the U.S. since Sept. 11, 2001.
-Alex Brandon/AP<media/>
+    <media>Protesters hold signs near the White House during a protest about President Trump's immigration policies on Wednesday. A proposed presidential action would freeze immigration from seven mostly Muslim countries for security reasons. But the list does not include any of the countries whose nationals have killed Americans in the U.S. since Sept. 11, 2001.
+Alex Brandon/AP</media>
 
 <update>Updated 2 p.m. ET</update>
 
@@ -40,7 +41,7 @@ Alex Brandon/AP<media/>
 
     <p>The executive action read: <q>Deteriorating conditions in certain countries due to war, strife, disaster, and civil unrest increase the likelihood that terrorists will use any means possible to enter our country.</q></p>
 
-<subHead>Existing visa restrictions</subHead>
+    <subHead>Existing visa restrictions</subHead>
 
 <p>Citizens from the seven nations in Trump's order already faced great difficulty in obtaining visas, gaining refugee status or immigrating to the U.S.</p>
 
