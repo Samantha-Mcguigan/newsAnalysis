@@ -7,8 +7,8 @@
             <section>politics</section>
             <titleLine>Protesters across globe rally for women's rights</titleLine>
             <pubInfo>
-                <date>2017-01-21</date>
-                <time>10:52 PM ET</time>
+                <date when="2017-01-21">2017-01-21</date>
+                <time value="10:52:00">10:52 PM ET</time>
                 <credit>
                     <author>Ralph Ellis</author>
                 </credit>

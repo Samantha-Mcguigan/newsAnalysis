@@ -7,9 +7,9 @@
             <section>politics</section>
             <titleLine>Syria <q>chemical attack</q>: What we know</titleLine>
             <pubInfo>
-                <date>2017-04-07</date>
+                <date when="2017-04-07">2017-04-07</date>
                 <credit>
-                    <author/>
+                    <author>No author</author>
                 </credit>
             </pubInfo>
         </siteInfo>

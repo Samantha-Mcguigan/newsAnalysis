@@ -9,8 +9,8 @@
             <titleLine>Trump signs executive order to keep out <q>radical Islamic terrorists</q></titleLine>
             <pubInfo>
                 <credit>By <author>Dan Merica</author>, CNN</credit>
-                <time>Updated 2:02 PM ET,</time>
-                <date>Mon January 30, 2017</date>
+                <time value="02:02:00">Updated 2:02 PM ET,</time>
+                <date when="2017-01-27">Mon January 30, 2017</date>
             </pubInfo>
         </siteInfo>
     </head>

@@ -7,8 +7,8 @@
             <section>politics</section>
             <titleLine>Trump launches military strike against Syria</titleLine>
             <pubInfo>
-                <date>2017-04-07</date>
-                <time>04:59:00</time> <!-- PM -->
+                <date when="2017-04-07">2017-04-07</date>
+                <time value="04:59:00">04:59:00</time> <!-- PM -->
                 <credit>
                     <author>Barbara Starr, Jeremy Diamond</author>
                 </credit>
