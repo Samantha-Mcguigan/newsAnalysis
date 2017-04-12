@@ -7,7 +7,7 @@
         <section>PRESIDENTIAL</section>
         <titleLine>Trump wins presidency, defeats Clinton in <emo type="adj">historic</emo> election <emo type="noun">upset</emo></titleLine>
         <pubInfo>
-            Published <date>November 08, 2016</date>
+            Published <date when="2017-11-08">November 08, 2016</date>
             <credit>
                 <editor>FoxNews.com</editor> <!--SM are we considering this the editor? -->
             </credit>
