@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
+<article>
+    <head>
+        <siteInfo ref="FOX">
+            <hyperlink>http://www.foxnews.com/world/2017/04/07/syria-airstrikes-international-community-reacts-to-us-bombing-airfield.html</hyperlink>
+            <section>politics</section>
+            <titleLine>Syria strikes: International community reacts to US bombing of airfield</titleLine>
+            <pubInfo>
+                <date>2017-04-07</date>
+                <credit>
+                    <author></author>
+                </credit>
+            </pubInfo>
+        </siteInfo>
+    </head>
+    <body>
+        <p>President Trump's swift and telegraphed action to punish Syria for a suspected chemical weapons attack earlier this week, by pummeling a key air base with missiles, was roundly praised by leaders around the world.</p>
+        
+        <p>Trump, who authorized the launch of 59 Tomahawk missiles from Navy warships in the Mediterranean Sea on an air base near Homs at 3:45 a.m local time, had said his thinking on Syria had changed following Tuesday's chemical attack that left scores of civilians dead.</p>
+        
+        <p><a href="http://www.foxnews.com/world/2017/04/07/syria-missile-attack-satellite-photos-show-major-damage-to-airfields.html">SYRIA MISSILE ATTACK: SATELLITE PHOTOS SHOW MAJOR DAMAGE TO AIRFIELDS</a></p>
+        
+        <p>Although Russia and Syrian state television blasted the move as "aggression," leaders from around the world solemnly praised the act as a measured and fair response to dictator Bashar al-Assad's suspected use of chemical weapons in the town of Idlib on Tuesday.</p>
+        
+        <p><quote>This was a calibrated, proportionate and targeted response.</quote></p>
+        
+        <p>- Australian Prime Minister Malcolm Turnbull</p>
+        
+        <p>Israel Prime Minister Benjamin Netanyahu said in a statement that <quote>In both word and action</quote> Trump <quote>sent a strong and clear message</quote> that <quote>the use and spread of chemical weapons will not be tolerated.</quote></p>
+        
+        <p>Israeli President Reuven Rivlin praised the U.S. for its airstrike aimed at an airbase called Shayrat. He called on the world to bring an end to the atrocities committed by Syrian President Bashar al-Assad.</p>
+        
+        <p><a href="http://www.foxnews.com/politics/2017/04/06/syria-missile-strikes-trump-says-action-in-vital-national-security-interest.html">SYRIA AIRSTRIKES: TRUMP SAYS MILITARY ACTION IN ‘VITAL NATIONAL SECURITY INTEREST’</a></p>
+        
+        <p><quote>In the face of the terrible use of chemical weapons against innocent civilians, the clear and determined steps of the US Administration and Military under the leadership of President Trump, constitute a fitting and appropriate response to such unthinkable brutality,</quote> Rivlin said.</p>
+        
+        <p>Japan's Prime Minister Shinzo Abe expressed support for the U.S. missile attack on Friday saying that the country understood and supported the strategy. Abe added that the strikes were <quote>a means to prevent further deterioration of the situation</quote> referring to the suspected chemical attack.</p>
+        
+        <p>A Saudi foreign ministry official praised <quote>the courageous decision by U.S. President Donald Trump to respond to the (Syrian) regime's crimes against its people in light of the failure of the international community to stop the regime from brutalizing its people.</quote> Saudi Arabia is a leading supporter of the rebels fighting to overthrow Assad.</p>
+        
+        
+        <p>Australian Prime Minister Malcolm Turnbull told reporters that the Australian government supported the <q>swift and just response</q> of the U.S. airstrikes.</p>
+        
+        <p><quote>This was a calibrated, proportionate and targeted response. It sends a strong message to the Assad regime, and ... has been struck at the very airfield from which the chemical attack was delivered,</quote> Turnbull said.</p>
+        
+        <p>Turkey welcomed the airstrike, calling it an <quote>important and meaningful</quote> development, but urged the world to take an even tougher stance on Assad.</p>
+        
+        <p><quote>We see the (airstrikes) as positive, but we believe that this should be completed,</quote> Deputy Prime Minister Numan Kurtulmus said. <quote>The Assad regime's barbarism must immediately be stopped.</quote></p>
+        
+        <p>The attack was criticized by the Syrian government, as well as Russia and Iran, which back Damascus in the grinding, seven-year civil war that has ravaged the nation.</p>
+        
+        <p>Assad's office denounced the U.S. strike as <quote>reckless, irresponsible behavior.</quote> The Syrian military called the attack a <quote>blatant aggression</quote> that would undermine Syria's <quote>fight against terrorism.</quote> The government refers to all groups fighting against it, including mainstream rebels, as terrorists, and has denied any involvement in the chemical attack.</p>
+        
+        <p>The Kremlin said in a <a href="http://www.foxnews.com/world/2017/04/07/russia-says-syria-airstrike-aggression-by-us.html">statement Friday that the airstrike</a> was an <quote>aggression against a sovereign state in violation of international law.</quote> President Vladimir Putin believes that the U.S. authorized the strikes under a <quote>far-fetched pretext,</quote> the statement said.</p>
+        
+        <p>Russian deputy envoy to the U.N., Vladimir Safronkov, said Russia had warned the U.S. to <quote>think about what military actions have led to in Iraq, Libya and other countries,</quote> according to the Interfax news agency.</p>
+        
+        <p>Iran also condemned the airstrikes. Iran Foreign Ministry spokesman Bahram Ghasemi said in a statement that the missile strike the <quote>unilateral action is dangerous, destructive and violates principles of international law.</quote></p>
+        
+        <p>Meantime, Hezbollah, the Iran-backed Lebanese group, which has sent thousands of fighters to Syria to bolster Assad, claimed the <quote>foolish</quote> strike would lead to a <quote>dangerous escalation in the region.</quote></p>
+    </body>
+</article>
