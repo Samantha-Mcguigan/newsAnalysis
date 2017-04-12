@@ -7,7 +7,7 @@
             <section>US &amp; Canada</section>
             <titleLine>Donald Trump protests attract millions across US and world</titleLine>
             <pubInfo>
-                <date>2017-01-21</date>
+                <date when="2017-01-21">2017-01-21</date>
                 <credit>
                     <author>no author</author> <!--SM do we want to do this or just take out the credit? -->
                 </credit>
