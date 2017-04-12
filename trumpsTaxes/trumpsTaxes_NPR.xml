@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
@@ -20,16 +19,16 @@
     <body>
         <p>Donald Trump and his wife Melania earned about $150 million in 2005 and paid federal taxes of about $38 million, the White House said tonight.</p>
         
-        <p>The Trump administration made the revelation after copies of the tax returns anonymously were put in the mailbox of journalist David Cay Johnston.</p>
+        <p>The Trump administration made the <emo type="noun">revelation</emo> after copies of the tax returns anonymously were put in the mailbox of journalist David Cay Johnston.</p>
         
         <p><a href="http://www.vox.com/2017/3/14/14930644/msnbc-trump-2005-tax-returns">The numbers</a> have not been independently verified by NPR.</p>
         
-        <p>Unlike other recent presidents, Trump has steadfastly refused to release his tax returns, saying he was under federal audit, which has led to enormous speculation about how much he really earns and where he gets his money.</p>
+        <p>Unlike other recent presidents, Trump has <emo type="adv">steadfastly</emo> <emo type="verb">refused</emo> to release his tax returns, saying he was under federal audit, which has led to enormous speculation about how much he really earns and where he gets his money.</p>
         
         <p>The two-page return doesn't really answer many questions, but does begin to shed a little light on Trump's finances.</p>
         
         
-        <p>Trump paid just $5.3 million in regular federal tax, perhaps because he was <a href="https://www.nytimes.com/2016/11/01/us/politics/donald-trump-tax.html">continuing to benefit</a> from large losses he suffered when his real estate empire collapsed in the 90s.</p>
+        <p>Trump paid just $5.3 million in regular federal tax, perhaps because he was <a href="https://www.nytimes.com/2016/11/01/us/politics/donald-trump-tax.html">continuing to benefit</a> from <emo type="adj">large</emo> losses he suffered when his real estate <emo type="noun">empire</emo> <emo type="noun">collapsed</emo> in the 90s.</p>
         
         <p>But because of the alternative minimum tax, or AMT, he actually ended up paying $38 million.</p>
         
