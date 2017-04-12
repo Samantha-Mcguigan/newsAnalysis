@@ -9,7 +9,7 @@
             <titleLine>Trump Paid About $38 Million In Federal Taxes In 2005, Leaked Returns Say</titleLine>
             <pubInfo>
                 <date>2017-03-14</date>
-                <time>10:35:00</time> <!-- PM -->
+                <time>10:35:00</time> <!-- PM --><!-- Are we sure we want to change the format here instead of just putting text in the schema -->
                 <credit>
                     <author>Jim Zarroli</author>
                 </credit>

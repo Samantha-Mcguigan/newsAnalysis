@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
         <siteInfo ref="NPR">
@@ -9,17 +10,17 @@
 <pubInfo>
     <date>November 9,</date>
     <time>20162:33 AM ET</time>
-    <credit>CARRIE JOHNSON</credit>
+    <credit><author>CARRIE JOHNSON</author></credit>
 </pubInfo>
         </siteInfo>
     </head>
 
+<body>
+<media>Republican president-elect Donald Trump delivers his acceptance speech during his election night event in New York City.
+Chip Somodevilla/Getty Images</media>
 
-Republican president-elect Donald Trump delivers his acceptance speech during his election night event in New York City.<media/>
-Chip Somodevilla/Getty Images<media/>
 
-    <body>
-        Donald Trump has been elected the 45th president of the United States, the capstone of a <emo type="adj">tumultuous</emo> and divisive campaign that won over white voters with the promise to <quote>Make America Great Again.</quote>
+    <p>Donald Trump has been elected the 45th president of the United States, the capstone of a <emo type="adj">tumultuous</emo> and divisive campaign that won over white voters with the promise to <quote>Make America Great Again.</quote></p>
 <p>
 Trump crossed the 270 electoral vote threshold at 2:31 a.m. ET with a victory in Wisconsin, according to Associated Press projections.</p>
 <p>
@@ -32,17 +33,17 @@ Taking the stage to cheers, Trump said Clinton had called him to offer her congr
 <p>
 In a rough and tumble campaign, Trump convinced a large slice of the American electorate that the government, Wall Street and the justice system were rigged. <quote>I will be your voice,</quote> he told supporters, who then defied the polls to propel him to the nation's highest office.</p>
 
-LIVE BLOG: Election Night 2016<media/>
-ELECTION 2016 RESULTS<media/>
-<a href="http://www.npr.org/2016/11/08/500427835/live-blog-election-night-2016">LIVE BLOG: Election Night 2016</a>
+<media>LIVE BLOG: Election Night 2016
+ELECTION 2016 RESULTS</media>
+    <p><a href="http://www.npr.org/2016/11/08/500427835/live-blog-election-night-2016">LIVE BLOG: Election Night 2016</a></p>
 <p>
     <emo type="adj">Critical</emo> battleground states broke Trump's way. Delegate-rich Ohio, Florida, Pennsylvania and Wisconsin moved to the Republican candidate. Many polls failed to predict those shifts, leaving the crowds at Trump's party in New York momentarily puzzled, then celebratory. About a mile away, in Manhattan, the event for former Secretary of State Clinton turned solemn.</p>
 <p>
 Clinton's campaign chairman, John Podesta, told a dwindling crowd early Wednesday that she would not be speaking yet. <quote>They're still counting votes and every vote should count,</quote> he said.</p>
 
-<a href="http://www.npr.org/2016/11/09/500711970/republicans-keep-control-of-the-senate-as-democrats-largely-falter">Republicans Keep Control Of The Senate As Democrats Largely Falter</a>
-POLITICS<media/>
-        Republicans Keep Control Of The Senate As Democrats Largely Falter<media/>
+<p><a href="http://www.npr.org/2016/11/09/500711970/republicans-keep-control-of-the-senate-as-democrats-largely-falter">Republicans Keep Control Of The Senate As Democrats Largely Falter</a></p>
+<media>POLITICS
+    Republicans Keep Control Of The Senate As Democrats Largely Falter</media>
 <p>
 Republican Party elites initially brushed off Trump. But he bested 16 more experienced rivals in the primary process while spending little on traditional campaign infrastructure and relying on family members for political and media acumen. By the presidential race's closing days, Trump had won support from only one living GOP presidential nominee, former Sen. Bob Dole of Kansas. Turns out, he didn't need the extra help.</p>
 <p>
@@ -63,17 +64,17 @@ That would hardly be the first unorthodox decision by the candidate and his camp
 <p>
     Many voters also appeared to be undeterred by the release of a 2005 videotape from Access Hollywood in which Trump, on a hot mic, talked about grabbing women between the legs because celebrities <quote>can do anything.</quote></p>
 
-Donald Trump Has Brought On Countless Controversies In An Unlikely Campaign<media/>
-POLITICS<media/>
-        <a href="http://www.npr.org/2016/11/05/500782887/donald-trumps-road-to-election-day">Donald Trump Has Brought On <emo type="adj">Countless</emo> Controversies In An Unlikely Campaign</a>
+<media>Donald Trump Has Brought On Countless Controversies In An Unlikely Campaign
+POLITICS</media>
+    <p><a href="http://www.npr.org/2016/11/05/500782887/donald-trumps-road-to-election-day">Donald Trump Has Brought On <emo type="adj">Countless</emo> Controversies In An Unlikely Campaign</a></p>
 <p>
     His relationship with Congress represents another uncertainty. Republicans maintained control of both the House and the Senate, but Trump has openly <emo type="verb">feuded</emo> with Republican lawmakers such as House Speaker Paul Ryan. In other cases, Trump promised to create a superPAC that would go after his <emo type="noun">enemies</emo>.</p>
 <p>
     The election deals yet another <emo type="adj">bitter</emo> defeat to Clinton, 69, a former first lady and U.S. senator who had appeared to retain a modest lead in national polls heading into Election Day. Clinton, the first woman to run atop the ticket of a major political party, had cast her candidacy as an inclusive vision for the future. She <emo type="verb">pledged</emo> to <emo type="verb">devote</emo> new resources to restoring American infrastructure, to <emo type="verb">fight</emo> for gun safety measures, to fix a broken immigration system and to nominate judges to the Supreme Court who would overhaul the campaign finance system.</p>
 
-A Culmination Of Trump's Decades In The Limelight<media/>
-POLITICS<media/>
-<a href="http://www.npr.org/2016/07/21/486859660/a-culmination-of-trumps-decades-in-the-limelight">A Culmination Of Trump's Decades In The Limelight</a>
+<media>A Culmination Of Trump's Decades In The Limelight
+POLITICS</media>
+<p><a href="http://www.npr.org/2016/07/21/486859660/a-culmination-of-trumps-decades-in-the-limelight">A Culmination Of Trump's Decades In The Limelight</a></p>
 <p>
 Clinton had been shadowed for more than a year by revelations she used a private email server to conduct State Department business. The FBI investigated her handling of classified information and determined that <quote>no reasonable prosecutor</quote> would have filed any criminal case.</p>
 <p>
@@ -84,6 +85,6 @@ Former Trump adviser Barry Bennett attributed the victory to the idea that Trump
 <quote>It's a testament to how angry they are at Washington, and Washington better hear it,</quote> Bennett said. <quote>Perhaps we got a little aligned too closely with business and not with the people. So maybe this is a shift back, which would be good for the party.</quote></p>
 <p>
 Trump supporter and onetime candidate Ben Carson put the president-elect's appeal this way: <quote>As I've said all along, this is not about Democrats and Republicans; this is about we the people versus the political elites.</quote></p>
-<foot><tag>To comment, go to this story on NPR's Facebook page.</tag></foot>
 </body>
+<foot><tag>To comment, go to this story on NPR's Facebook page.</tag></foot>
 </article>

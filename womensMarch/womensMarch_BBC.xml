@@ -7,7 +7,7 @@
             <titleLine>Donald Trump protests attract millions across US and world</titleLine>
             <pubInfo>
                 <date>2017-01-21</date>
-                <time/>
+                <time></time>
                 <credit>
                     <author>no author</author>
                 </credit>
@@ -16,7 +16,6 @@
     </head>
 
     <body>
-        <media/>
         <p>
             <em>Millions of protesters have taken to the streets of cities in the US and around the
                 globe to rally against the new US President Donald Trump.</em>
@@ -26,13 +25,13 @@
         <p>The aim was principally to highlight women's rights, which activists believe to be under
             threat from the new administration.</p>
         <p>Meanwhile, Mr Trump used his first full day in office to visit the CIA's HQ.</p>
-        <p>He said he was "1,000%" behind the spy agency's employees and <em><a
+        <p>He said he was <q>1,000%</q> behind the spy agency's employees and <em><a
                     href="http://www.bbc.co.uk/news/world-us-canada-38707722">also accused the media
                     of being dishonest in its reporting of the size of the crowd at his
                     inauguration.</a></em></p>
         <p>Mr Trump did not refer to Saturday's protests.</p>
         <p>
-            <em>'We are the majority'</em>
+            <subHead>'We are the majority'</subHead>
         </p>
         <p>The biggest US rally was in the capital Washington, which city officials estimated to be
             more than 500,000-strong.</p>
@@ -73,20 +72,15 @@
         <p>America Ferrera told the crowd: <quote>We march today for the moral core of this nation,
                 against which our new president is waging a war.</quote></p>
         <p>Huge crowds were reported at other US protests.</p>
-        <media/>
         <p>So many turned out in Chicago - some 150,000 - that a planned march had to be called off
             and the event declared a rally. Streets were also overflowing in Los Angeles.</p>
         <p>Huge crowds were also reported in New York, Seattle, Boston and Miami, some of the venues
             for about 300 nationwide protests.</p>
         <p>Many women wore knitted pink <q>pussy hats</q> - a reference to a recording that emerged
             during the election campaign in which Mr Trump talked about groping women.</p>
-        <media/>
-        <media/>
-        <media/>
-        <media/>
-        <p>
-            <em>'These are global problems'</em>
-        </p>
+        
+            <subHead>'These are global problems'</subHead>
+
         <p>Organisers of a London rally <em><a href="http://www.bbc.co.uk/news/uk-38700123">said
                     between 80,000 and 100,000 people</a></em> had taken part there. Belfast,
             Cardiff, Edinburgh, Leeds, Liverpool, Manchester and Bristol were among the other UK
@@ -110,7 +104,7 @@
             </em>
         </p>
         <p>
-            <em>Website overhaul</em>
+            <subHead>Website overhaul</subHead>
         </p>
         <p>Mr Trump's first full day in office began with an inter-faith service at Washington
             National Cathedral.</p>
@@ -119,7 +113,6 @@
                 about the intelligence community and the CIA than me.</quote></p>
         <p>During the election campaign, Mr Trump had sharply criticised the intelligence agencies
             over their stance on alleged Russian involvement.</p>
-        <media/>
         <p>Mr Trump also talked up his yet-to-be-confirmed nominee for CIA chief, Mike Pompeo.</p>
         <p><quote>You will be getting a total gem,</quote> he told the employees.</p>
         <p>In one of his first steps, Mr Trump ordered government agencies to ease the <q>economic
@@ -127,8 +120,6 @@
         <p>His team also quickly overhauled the <em><a href="https://www.whitehouse.gov/">White
                     House website</a></em>. The revamp replaces Barack Obama's policies with Mr
             Trump's new agenda.</p>
-        <media/>
-        <media/>
         <p>The new administration lists only six issues on the website - energy, foreign policy,
             jobs and growth, military, law enforcement and trade deals.</p>
         <p>Critics complained that it made no mention of civil rights, healthcare, climate change or

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
         <siteInfo ref="BBC">
@@ -6,19 +7,18 @@
             <section>US &amp; Canada</section>
             <titleLine>Trump suspends US refugee programme and bans Syrians indefinitely</titleLine>
             <pubInfo>
-                <date>
-                    28 January 2017</date>
+                <date>28 January 2017</date>
             </pubInfo>
         </siteInfo>
     </head>
+<body>
+    <media>Media captionPresident Trump told CBN News Christian refugees will get priority</media>
+    <subHead>Trump takes office</subHead>
 
-Media captionPresident Trump told CBN News Christian refugees will get priority<media/>
-<subHead>Trump takes office</subHead>
-
-    <a href="http://www.bbc.com/news/world-us-canada-38966846">Russia: The scandal Trump can't shake</a>
-    <a href="http://www.bbc.com/news/world-us-canada-38563143">Will Trumpcare replace Obamacare?</a>
-    <a href="http://www.bbc.com/news/election-us-2016-37468751">Where Trump stands on key issues</a>
-    <a href="http://www.bbc.com/news/world-us-canada-38663043">How much has Trump achieved so far?</a>
+    <p><a href="http://www.bbc.com/news/world-us-canada-38966846">Russia: The scandal Trump can't shake</a></p>
+    <p><a href="http://www.bbc.com/news/world-us-canada-38563143">Will Trumpcare replace Obamacare?</a></p>
+    <p><a href="http://www.bbc.com/news/election-us-2016-37468751">Where Trump stands on key issues</a></p>
+    <p><a href="http://www.bbc.com/news/world-us-canada-38663043">How much has Trump achieved so far?</a></p>
     
 <p>President Donald Trump has banned the entry of Syrian refugees into the US until further notice.</p>
 
@@ -52,7 +52,7 @@ Media captionPresident Trump told CBN News Christian refugees will get priority<
 
 <p>In a TV interview broadcast earlier on Friday, the president said Christians would be given priority among Syrians who apply for refugee status in the future.</p>
 
-Media captionThe US city of Lancaster has taken in hundreds of refugees - but that could all end<media/>
+    <media>Media captionThe US city of Lancaster has taken in hundreds of refugees - but that could all end</media>
     
     <p>Other measures include a broad review of the information required from all countries to approve a visa; a review of visa schemes between nations to ensure they are <q>truly reciprocal</q> for US citizens; and the immediate suspension of the Visa Interview Waiver Programme.</p>
 
@@ -72,7 +72,7 @@ Media captionThe US city of Lancaster has taken in hundreds of refugees - but th
 
 <p>But he has made no mention of this since his victory last November.</p>
 
-Media captionTrump's 'yuge' first week as president recapped<media/>
+    <media>Media captionTrump's 'yuge' first week as president recapped</media>
 
 <p>The executive order has been met with criticism from rights organisations, Democrats and notable figures.</p>
 
@@ -86,7 +86,7 @@ Media captionTrump's 'yuge' first week as president recapped<media/>
 
     <p><quote>America is turning its back on a proud history of welcoming refugees and immigrants - the people who helped build your country, ready to work hard in exchange for a fair chance at a new life,</quote> she added.</p>
 
-Malala Yousafzai photographed holding a bouquet of flowers on the day she was announced as a Nobel Laureate, 2014Image copyrightGETTY IMAGES<media/>
+    <media>Malala Yousafzai photographed holding a bouquet of flowers on the day she was announced as a Nobel Laureate, 2014Image copyrightGETTY IMAGES</media>
 <media>Image caption
     The world's youngest winner of the Nobel Peace Prize said she was "heartbroken" by the order</media>
     
@@ -95,6 +95,7 @@ Malala Yousafzai photographed holding a bouquet of flowers on the day she was an
     <p>The head of American Civil Liberties Union (ACLU) condemned the use of the words <q>extreme vetting</q>, saying it was a <quote>euphemism for discriminating against Muslims</quote>.</p>
 
     <p><quote>Identifying specific countries with Muslim majorities and carving out exceptions for minority religions flies in the face of the constitutional principle that bans the government from either favouring or discriminating against particular religions,</quote> Anthony Romero <a href="https://www.aclu.org/news/aclu-statement-trumps-extreme-vetting-muslims-executive-order">said in a statement.</a></p>
-
+</body>
 <foot>If you have any questions about the new vetting measures which President Trump has announced, send them to us and a BBC correspondent will answer the most popular.</foot>
+
 </article>

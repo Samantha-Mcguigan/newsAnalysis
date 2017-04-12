@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-model href="../articleRefGuide/newsAnalysisRelax-NG.rnc" type="application/relax-ng-compact-syntax"?>
 <article>
     <head>
@@ -29,7 +28,7 @@
         <p>The details were revealed on a show later that night, anchored by journalist Rachel Maddow.</p>
         <p>MSNBC said they received the document from financial journalist and Trump biographer David Cay Johnston, who received it in the post from an anonymous source.</p>
         
-        Media captionDid Donald Trump leak his own tax return?<media/>
+        <media>Media captionDid Donald Trump leak his own tax return?</media>
         
         <p>On the programme Mr Cay Johnston confirmed he had no further details on the source, but speculated that the leak could have come from Mr Trump himself.</p>
         <p>Although leaking federal tax returns is a criminal offence, Ms Maddow argued that the network was exercising its right to freedom of speech under the First Amendment to the US Constitution to publish information in the public interest.</p>
@@ -48,9 +47,9 @@
         <subHead>What don't we know?</subHead>
         
         <p>President Trump's critics have wanted to know more about his income tax payments, but they also want more transparency on his business ties, particularly on any links to Russia. No substantial business links have been proven.</p>
-        US President Donald Trump high-fives Japan's Prime Minister Shinzo Abe while playing golf in Florida on February 11, 2017Image copyrightAFP<media/>
-        Image caption<media/>
-        President Trump's business interests include golf courses and luxury hotels<media/>
+        <media>US President Donald Trump high-fives Japan's Prime Minister Shinzo Abe while playing golf in Florida on February 11, 2017Image copyrightAFP</media>
+        <media>Image caption
+        President Trump's business interests include golf courses and luxury hotels</media>
         <p>The two-page form only gives basic figures and offers no insight into the sources of his earnings.</p>
         <p>It also does not give details on any charity donations.</p>
         <p>Last October, the New York Times revealed parts of Mr Trump's 1995 tax returns that showed losses of $916m (£753m). The newspaper said this could have affected his returns for up to 18 subsequent years, allowing him to legally avoid paying federal income taxes.</p>
@@ -62,7 +61,7 @@
         <p>Throughout his presidential campaign and since his election, Mr Trump has refused to release his returns.</p>
         <p>He has said he is under audit by tax authorities and that his lawyers advise against releasing the documents.</p>
         
-        Media captionAdviser to Trump tells Today the President's tax returns are a a distraction from his essential mission<media/>
+        <media>Media captionAdviser to Trump tells Today the President's tax returns are a a distraction from his essential mission</media>
         <p>The US Internal Revenue Service has a policy not to confirm whether or not individuals are under audit, but says it does not stop anyone from releasing their own returns.</p>
         <p>Mr Trump's critics have created numerous petitions calling for their full release, including one that gathered over a million signatures.</p>
         <p>During last year's election campaign, Democratic candidate Hillary Clinton accused Mr Trump in a head-to-head debate of paying no federal income tax.</p>
@@ -78,7 +77,7 @@
         
         <p>In the past, Mr Trump is alleged to have called the US media and used a pseudonym to give them <a href="http://www.bbc.com/news/election-us-2016-36289239">favourable stories about his business dealings.</a></p>
         <p>Mr Trump's son, Donald Trump Jr, said on Twitter that he was thankful for the release as they showed his father was paying taxes.</p>
-        Donald Trump Jnr tweets his thanks to Ms Maddow for leaking his father's tax returnImage copyright@DONALDJTRUMPJR<media/>
+        <media>Donald Trump Jnr tweets his thanks to Ms Maddow for leaking his father's tax returnImage copyright@DONALDJTRUMPJR</media>
         <p>However, in a statement issued before the broadcast, the White House was less enthusiastic, saying: <quote>You know you are desperate for ratings when you are willing to violate the law to push a story about two pages of tax returns from over a decade ago</quote>.</p>
         <p>It has also said Mr Trump had a responsibility to pay no more tax than was legally required.</p>
         
