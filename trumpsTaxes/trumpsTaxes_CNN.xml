@@ -7,8 +7,8 @@
             <section>politics</section>
             <titleLine>White House: Trump paid $38 million in income tax in 2005</titleLine>
             <pubInfo>
-                <date>2017-03-15</date>
-                <time>11:43:00</time> <!-- AM -->
+                <date when="2017-03-15">2017-03-15</date>
+                <time value="11:43:00">11:43:00</time> <!-- AM -->
                 <credit>
                     <author> Jim Acosta, Kevin Liptak, Theodore Schleifer and Dylan Byers</author>
                 </credit>
