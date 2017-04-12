@@ -8,8 +8,8 @@
             <titleLine>Trump Orders Syria Airstrikes After <q>Assad Choked Out The Lives</q> Of
                 Civilians</titleLine>
             <pubInfo>
-                <date>2017-04-06</date>
-                <time>09:37:00</time> <!-- PM -->
+                <date when="2017-04-06">2017-04-06</date>
+                <time value="09:37:00">09:37:00</time> <!-- PM -->
                 <credit>
                     <author>Mari Katkov, Jessica Taylor, Tom Bowman</author>
                 </credit>
