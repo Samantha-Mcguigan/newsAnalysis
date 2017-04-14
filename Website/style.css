@@ -18,9 +18,24 @@ h1{
 
 div#top {
     background-color: #1A3A51;
-    width: 100%;
+    width: 99.5%;
     border: 3px solid #B90411;
     padding: 2px;
+    
+}
+
+div#bottom {
+    color: #B3B3B3;
+    line-height: 3;
+    background-color: #1A3A51;
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    position: absolute;
+        bottom: 0px;
+        height: 50px;
+        width: 100%;
+    border-top: 4px solid #B90411;
     
 }
 
@@ -30,18 +45,14 @@ div#menu{
     color: #B90411;
 }
 
-div#img{
-    width: 25%;
-    height: 25%;
-    margin: auto;
-    text-align: center;
-    
+div.text{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 
-img{
+img.newsBox{
     display: block;
-    width: 40%;
-    height: 40%; 
+    width: 50%;
+    height: 25%; 
     margin: auto;
 }
 
@@ -53,4 +64,18 @@ a:link{
 a:visited{
     text-decoration: none;
     color: #FFFAFA;
+}
+
+.webLinks{
+    width: 100%;
+}
+
+.cc{
+    position: absolute;
+    right: 30px;
+    top: 50px;
+}
+
+a.license{
+    text-decoration: underline;
 }
