@@ -4,7 +4,11 @@ html{
 
 body{
     color: #000000;
-}
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     margin: 0px
+  }
 
 h1{
     color: #FFFAFA ;
@@ -18,11 +22,24 @@ h1{
 
 div#top {
     background-color: #1A3A51;
-    width: 100%;
+    width: 99.5%;
     border: 3px solid #B90411;
     padding: 2px;
     
 }
+
+div#bottom {
+     color: #B3B3B3;
+     line-height: 3;
+     background-color: #1A3A51;
+     text-align: center;
+     position: fixed;
+         bottom: 0px;
+         height: 50px;
+         width: 100%;
+     border-top: 4px solid #B90411;
+     
+ }
 
 div#menu{
     text-align: left;
@@ -30,7 +47,13 @@ div#menu{
     color: #B90411;
 }
 
-div#img{
+div.text{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+ }
+
+div.svg{
     width: 25%;
     height: 25%;
     margin: auto;
@@ -38,10 +61,10 @@ div#img{
     
 }
 
-img{
+img.newsBox{
     display: block;
-    width: 40%;
-    height: 40%; 
+    width: 50%;
+    height: 25%; 
     margin: auto;
 }
 
@@ -54,3 +77,17 @@ a:visited{
     text-decoration: none;
     color: #FFFAFA;
 }
+
+.webLinks{
+    width: 100%;
+ }
+ 
+ .cc{
+    position: absolute;
+    right: 30px;
+    top: 40px;
+ }
+ 
+ a.license{
+    text-decoration: underline;
+ }
