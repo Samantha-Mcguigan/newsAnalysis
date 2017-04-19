@@ -4,6 +4,10 @@ html{
 
 body{
     color: #000000;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px
 }
 
 h1{
@@ -29,8 +33,6 @@ div#bottom {
     line-height: 3;
     background-color: #1A3A51;
     text-align: center;
-    margin:0px;
-    padding:0px;
     position: fixed;
         bottom: 0px;
         height: 50px;
@@ -47,6 +49,8 @@ div#menu{
 
 div.text{
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 div.svg{
