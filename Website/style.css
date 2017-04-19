@@ -19,6 +19,12 @@ h1{
     margin-bottom: 15px;
 }
 
+h2{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    margin-left: 10px;
+    font-size: 25px !important;
+}
+
 
 div#top {
     background-color: #1A3A51;
