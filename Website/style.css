@@ -94,6 +94,11 @@ a:visited{
     top: 40px;
  }
  
- a.license{
+a.license{
     text-decoration: underline;
+ }
+ 
+a.colorFill{
+    text-decoration: underline;
+    color: black;
  }
