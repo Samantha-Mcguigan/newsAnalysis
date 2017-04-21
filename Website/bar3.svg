@@ -10,19 +10,20 @@
         <text x="505" y="-330">CNN- 77</text>
         <text x="505" y="-310">NPR- 46</text>
         <text x="505" y="-290" style="fill:red;">Republicans- Red</text>
-        <text x="505" y="-270" style="fill:blue;">Democrats- Blue</text><!-- THE BARS -->
+        <text x="505" y="-270" style="fill:blue;">Democrats- Blue</text>
+        <text x="505" y="-250">Unknown- Black</text><!-- THE BARS -->
         <g transform="scale(1.2,1.2)"><!-- BBC -->
             <rect x="20" y="-58" height="58" width="20" style="stroke: black ; stroke-width: 2;"/>
-            <rect x="20" y="-13" height="13" width="20" style="stroke: blue; stroke-width: 2; fill: blue;"/>
-            <rect x="20" y="-12" height="12" width="20" style="stroke: red; stroke-width: 2; fill: red;"/><!-- FOX -->
+            <rect x="20" y="-25" height="12" width="20" style="stroke: red; stroke-width: 2; fill: red;"/>
+            <rect x="20" y="-13" height="13" width="20" style="stroke: blue; stroke-width: 2; fill: blue;"/><!-- FOX -->
             <rect x="60" y="-57" height="57" width="20" style="stroke: black; stroke-width: 2;"/>
-            <rect x="60" y="-14" height="14" width="20" style="stroke: red; stroke-width: 2; fill: red;"/>
+            <rect x="60" y="-25" height="14" width="20" style="stroke: red; stroke-width: 2; fill: red;"/>
             <rect x="60" y="-11" height="11" width="20" style="stroke: blue; stroke-width: 2; fill: blue;"/><!-- CNN -->
             <rect x="100" y="-77" height="77" width="20" style="stroke: black; stroke-width: 2;"/>
-            <rect x="100" y="-40" height="40" width="20" style="stroke: red; stroke-width: 2; fill: red;"/>
+            <rect x="100" y="-46" height="40" width="20" style="stroke: red; stroke-width: 2; fill: red;"/>
             <rect x="100" y="-6" height="6" width="20" style="stroke: blue; stroke-width: 2; fill: blue;"/><!-- NPR -->
             <rect x="140" y="-46" height="46" width="20" style="stroke: black; stroke-width: 2;"/>
-            <rect x="140" y="-24" height="24" width="20" style="stroke: red; stroke-width: 2; fill: red;"/>
+            <rect x="140" y="-26" height="24" width="20" style="stroke: red; stroke-width: 2; fill: red;"/>
             <rect x="140" y="-2" height="2" width="20" style="stroke: blue; stroke-width: 2; fill: blue;"/>
             <line x1="0" y1="0" x2="200" y2="0" style="stroke: black; stroke-width: 2"/>
             <line x1="0" y1="0" x2="0" y2="-140" style="stroke: black; stroke-width: 2"/>
