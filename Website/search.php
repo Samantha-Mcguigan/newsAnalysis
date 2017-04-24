@@ -14,7 +14,7 @@ $input_search = htmlspecialchars($_GET['input_search']);
     <link rel="stylesheet" type="text/css" href="style.css"/>
   </head>
   <body>
-    <!--#include virtual="top.html" -->
+    <!--#include virtual="menu.html" -->
     <h2><img id="searchIcon" src="search-icon.png" alt="search icon" width="30"/> Search results</h2>
     <p>Our search retrieves <strong>exact matches</strong>, as well as <strong>close matches</strong> retrieved either by <dfn>ngram searches</dfn> (for portions of the string you entered) or by <dfn>Levenshtein distance</dfn> (or terms calculated as a close match with a few characters of difference). Clicking on the highlighted match term in the search results leads to the full article as posted by its host news organization.</p>
     <p><a href="search.html">Return to Search page.</a></p>
