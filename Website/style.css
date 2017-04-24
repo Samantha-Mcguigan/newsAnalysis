@@ -8,7 +8,7 @@ body{
      justify-content: center;
      flex-direction: column;
      margin: 0px
-  }
+}
 
 h1{
     color: #FFFAFA ;
@@ -24,16 +24,12 @@ h2{
     margin-left: 10px;
     font-size: 25px !important;
 }
-
-
 div#top {
     background-color: #1A3A51;
     width: 99.5%;
     border: 3px solid #B90411;
     padding: 2px;
-    
 }
-
 div#bottom {
      color: #B3B3B3;
      line-height: 3;
@@ -44,20 +40,105 @@ div#bottom {
          height: 50px;
          width: 100%;
      border-top: 4px solid #B90411;
-     
- }
-
-div#menu{
-    text-align: left;
-    font-size: 20px !important;
-    color: #B90411;
 }
-
+.topNav:after {
+    display:block;
+    clear:both;
+}
+ul.topnav {
+list-style-type: none;
+margin: 0 auto;
+width: 100%;
+height: 43px;
+padding: 1px;
+overflow: hidden;
+background-color: #B90411;
+text-align: center;
+margin-top: .5%;
+}
+ul.topnav li {
+display: inline-block;
+text-align: center;
+}
+ul.topnav li a {
+display: inline-block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+transition: 0.3s;
+font-size: 17px;
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+ul.topnav li a:hover {
+background-color: #acc1ca;
+color: black
+}
+.navBar li:hover .sub-menu {
+    z-index:1;
+    opacity:1;
+    visibility: visible;
+}
+.sub-menu {
+    width:10%;
+    padding:5px 0px;
+    position:absolute;
+    top:135px;
+    left:45%;
+    z-index:-1;
+    opacity:0;
+    transition:opacity linear 0.15s;
+    box-shadow:0px 2px 3px rgba(0,0,0,0.2);
+    background-color: #1A3A51;
+}
+.sub-menu li {
+    display:block;
+    font-size:16px;
+}
+ 
+.sub-menu li a {
+    padding:10px 30px;
+    display:block;
+}
+ 
+.sub-menu li a:hover, .sub-menu .current-item a {
+background-color: white;
+}
+.navBar li:hover .sub-menu2 {
+    z-index:1;
+    opacity:1;
+    visibility: visible;
+}
+.sub-menu2 {
+    width:10%;
+    padding:5px 0px;
+    position:absolute;
+    top:135px;
+    left:52.9%;
+    z-index:-1;
+    opacity:0;
+    transition:opacity linear 0.15s;
+    box-shadow:0px 2px 3px rgba(0,0,0,0.2);
+background-color: #1A3A51;
+}
+.sub-menu2 li {
+    display:block;
+    font-size:16px;
+}
+ 
+.sub-menu2 li a {
+    padding:10px 30px;
+    display:block;
+}
+ 
+.sub-menu2 li a:hover, .sub-menu2 .current-item a {
+background-color: white;
+}
 div.text{
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     margin-left: 10px;
     margin-right: 10px;
- }
+}
 
 div.svg{
     width: 25%;
@@ -78,7 +159,6 @@ a:link{
     text-decoration: none;
     color: #FFFAFA ;
 }
-
 a:visited{
     text-decoration: none;
     color: #FFFAFA;
@@ -96,8 +176,7 @@ a:visited{
  
 a.license{
     text-decoration: underline;
- }
- 
+}
 a.colorFill{
     text-decoration: underline;
     color: black;
