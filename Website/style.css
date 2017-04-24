@@ -83,8 +83,8 @@ color: black
     width:10%;
     padding:5px 0px;
     position:absolute;
-    top:22.5%;
-    left:44.9%;
+    top:135px;
+    left:45%;
     z-index:-1;
     opacity:0;
     transition:opacity linear 0.15s;
@@ -113,8 +113,8 @@ background-color: white;
     width:10%;
     padding:5px 0px;
     position:absolute;
-    top:22.5%;
-    left:52.4%;
+    top:135px;
+    left:52.9%;
     z-index:-1;
     opacity:0;
     transition:opacity linear 0.15s;
@@ -155,22 +155,22 @@ img.newsBox{
     margin: auto;
 }
 
-div#menu a:link, div#bottom a:link{
+a:link{
     text-decoration: none;
     color: #FFFAFA ;
 }
-
-div#menu  a:visited, div#bottom a:visited{
+a:visited{
     text-decoration: none;
     color: #FFFAFA;
 }
+
 a.hi {font-weight:bold;}
-a:link{
+a.hi:link{
     text-decoration: none;
     color: red ;
 }
 
-a:visited{
+a.hi:visited{
     text-decoration: none;
     color: green;
 }
