@@ -164,6 +164,17 @@ a:visited{
     color: #FFFAFA;
 }
 
+a.hi {font-weight:bold;}
+a.hi:link{
+    text-decoration: none;
+    color: red ;
+}
+
+a.hi:visited{
+    text-decoration: none;
+    color: green;
+}
+
 .webLinks{
     width: 100%;
  }
