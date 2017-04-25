@@ -1,22 +1,22 @@
 html{
-    background-color: #FFFAFA ;
+    background-color: #FFFAFA;
 }
 
 body{
     color: #000000;
-     display: flex;
-     justify-content: center;
-     flex-direction: column;
-     margin: 0px
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0px
 }
 
-h1{
-    color: #FFFAFA ;
+div.h1{
+    color: #FFFAFA;
     font-family: Impact;
     font-size: 50px !important;
     text-align: left;
-    margin-top: 2px;
-    margin-bottom: 15px;
+    position: absolute;
+    bottom: 5%;
 }
 
 h2{
@@ -24,116 +24,161 @@ h2{
     margin-left: 10px;
     font-size: 25px !important;
 }
-div#top {
+div#top{
     background-color: #1A3A51;
-    width: 99.5%;
     border: 3px solid #B90411;
     padding: 2px;
+    position: relative;
+    height: 100px;
 }
-div#bottom {
-     color: #B3B3B3;
-     line-height: 3;
-     background-color: #1A3A51;
-     text-align: center;
-     /*position: fixed;*/
-         bottom: 0px;
-         /*height: 50px;*/
-         width: 100%;
-     border-top: 4px solid #B90411;
-}
-.topNav:after {
-    display:block;
-    clear:both;
-}
-ul.topnav {
-list-style-type: none;
-margin: 0 auto;
-width: 100%;
-height: 43px;
-padding: 1px;
-overflow: hidden;
-background-color: #B90411;
-text-align: center;
-margin-top: .5%;
-}
-ul.topnav li {
-display: inline-block;
-text-align: center;
-}
-ul.topnav li a {
-display: inline-block;
-color: white;
-text-align: center;
-padding: 14px 16px;
-text-decoration: none;
-transition: 0.3s;
-font-size: 17px;
-font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-}
-ul.topnav li a:hover {
-background-color: #acc1ca;
-color: black
-}
-.navBar li:hover .sub-menu {
-    z-index:1;
-    opacity:1;
-    visibility: visible;
-}
-.sub-menu {
-    width:10%;
-    padding:5px 0px;
-    position:absolute;
-    top:135px;
-    left:45%;
-    z-index:-1;
-    opacity:0;
-    transition:opacity linear 0.15s;
-    box-shadow:0px 2px 3px rgba(0,0,0,0.2);
+
+div#bottom{
+    color: #B3B3B3;
+    line-height: 3;
     background-color: #1A3A51;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    /*height: 50px;*/
+    width: 100%;
+    border-top: 4px solid #B90411;
 }
-.sub-menu li {
-    display:block;
-    font-size:16px;
+
+.dropbtn{
+    background-color: #1A3A51;
+    color: white;
+    padding: 3px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
- 
-.sub-menu li a {
-    padding:10px 30px;
-    display:block;
+
+.dropbtn:hover,
+.dropbtn:focus{
+    background-color: #B90411;
 }
- 
-.sub-menu li a:hover, .sub-menu .current-item a {
-background-color: white;
+
+.dropdown{
+    position: absolute;
+    top: 1%;
+    left: 35%;
 }
-.navBar li:hover .sub-menu2 {
-    z-index:1;
-    opacity:1;
-    visibility: visible;
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    min-width: 500px;
+    overflow: auto;
+    z-index: 1;
+    background-color: #1A3A51;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
-.sub-menu2 {
-    width:10%;
-    padding:5px 0px;
-    position:absolute;
-    top:135px;
-    left:52.9%;
-    z-index:-1;
-    opacity:0;
-    transition:opacity linear 0.15s;
-    box-shadow:0px 2px 3px rgba(0,0,0,0.2);
-background-color: #1A3A51;
+
+.dropdown-content a{
+    padding: .5px 0px;
+    text-decoration: none;
+
 }
-.sub-menu2 li {
-    display:block;
-    font-size:16px;
+
+.dropdown a:hover{
+    background-color: #B90411
 }
- 
-.sub-menu2 li a {
-    padding:10px 30px;
-    display:block;
+
+.show{
+    display: block;
 }
- 
-.sub-menu2 li a:hover, .sub-menu2 .current-item a {
-background-color: white;
+
+.dropbtn1{
+    background-color: #1A3A51;
+    color: white;
+    padding: 3px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
+
+.dropbtn1:hover,
+.dropbtn1:focus{
+    background-color: #B90411;
+}
+
+.dropdown1{
+    position: absolute;
+    top: 1%;
+    left: 48%;
+}
+
+.dropdown-content1{
+    display: none;
+    position: absolute;
+    min-width: 500px;
+    overflow: auto;
+    z-index: 1;
+    background-color: #1A3A51;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.dropdown-content1 a{
+    padding: .5px 0px;
+    text-decoration: none;
+
+}
+
+.dropdown1 a:hover{
+    background-color: #B90411
+}
+
+.show1{
+    display: block;
+}
+
+.dropbtn2{
+    background-color: #1A3A51;
+    color: white;
+    padding: 3px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.dropbtn2:hover,
+.dropbtn2:focus{
+    background-color: #B90411;
+}
+
+.dropdown2{
+    position: absolute;
+    top: 1%;
+    left: 59%;
+}
+
+.dropdown-content2{
+    display: none;
+    position: absolute;
+    min-width: 400px;
+    overflow: auto;
+    z-index: 1;
+    background-color: #1A3A51;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.dropdown-content2 a{
+    padding: .5px 0px;
+    text-decoration: none;
+
+}
+
+.dropdown2 a:hover{
+    background-color: #B90411
+}
+
+.show2{
+    display: block;
+}
+
 div.text{
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     margin-left: 10px;
@@ -145,29 +190,31 @@ div.svg{
     height: 25%;
     margin: auto;
     text-align: center;
-    
+
 }
 
 img.newsBox{
     display: block;
     width: 50%;
-    height: 25%; 
+    height: 25%;
     margin: auto;
 }
 
 a:link{
     text-decoration: none;
-    color: #FFFAFA ;
+    color: #FFFAFA;
 }
 a:visited{
     text-decoration: none;
     color: #FFFAFA;
 }
 
-a.hi {font-weight:bold;}
+a.hi{
+    font-weight: bold;
+}
 a.hi:link{
     text-decoration: none;
-    color: red ;
+    color: red;
 }
 
 a.hi:visited{
@@ -177,18 +224,19 @@ a.hi:visited{
 
 .webLinks{
     width: 100%;
- }
- 
- .cc{
+}
+
+.cc{
     position: absolute;
-    right: 30px;
-    top: 40px;
- }
- 
+    right: .4%;
+    top: 1%;
+    transform: scale(.7, .7);
+}
+
 a.license{
     text-decoration: underline;
 }
 a.colorFill{
     text-decoration: underline;
     color: black;
- }
+}
