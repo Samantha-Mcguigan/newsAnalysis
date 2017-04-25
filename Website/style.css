@@ -68,7 +68,7 @@ div#bottom{
 .dropdown-content{
     display: none;
     position: absolute;
-    min-width: 500px;
+    width: 300px;
     overflow: auto;
     z-index: 1;
     background-color: #1A3A51;
@@ -113,7 +113,7 @@ div#bottom{
 .dropdown-content1{
     display: none;
     position: absolute;
-    min-width: 500px;
+    min-width: 259px;
     overflow: auto;
     z-index: 1;
     background-color: #1A3A51;
