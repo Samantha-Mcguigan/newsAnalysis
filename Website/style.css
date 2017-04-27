@@ -212,7 +212,15 @@ a:visited{
     text-decoration: none;
     color: #FFFAFA;
 }
-
+div.text ul li a:link{
+    color: black;
+}
+div.text ul li a:visited{
+    color: red;
+}
+div.text ul li a:hover{
+    color: blue;
+}
 a.hi{
     font-weight: bold;
 }
