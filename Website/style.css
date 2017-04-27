@@ -190,11 +190,8 @@ div.text{
 }
 
 div.svg{
-    width: 25%;
-    height: 25%;
-    margin: auto;
-    text-align: center;
-
+    width: 50%;
+    height: 50%;
 }
 
 img.newsBox{
